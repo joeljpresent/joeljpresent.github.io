@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "Œuf de pâques"
 permalink: "/easter/egg/"
 ---
