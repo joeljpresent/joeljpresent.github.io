@@ -1,3 +1,9 @@
 theme: "jekyll-theme-midnight"
 title: "Le monde merveilleux de Joël J. Présent"
 description: "Joël J. Présent's GitHub page"
+baseurl: "/"
+markdown: "GFM"
+
+github_username: "JoelJPresent"
+linkedin_username: "joeljpresent"
+twitter_username: "JoelJPresent"
