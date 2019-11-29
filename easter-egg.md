@@ -8,5 +8,13 @@ permalink: "/easter/egg/"
 ![œufs de pâques](https://babylas25.mondoblog.org/files/2013/03/oeufs_ukrainiens.jpg)
 
 ``` txt
-œuf də pɑk
+œf də pɑk
+```
+
+``` txt
+œf də pɑk bis
+```
+
+```txt
+euf de pak
 ```
