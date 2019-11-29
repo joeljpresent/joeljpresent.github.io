@@ -7,6 +7,6 @@ permalink: "/easter/egg/"
 
 ![œufs de pâques](https://babylas25.mondoblog.org/files/2013/03/oeufs_ukrainiens.jpg)
 
-```fonipa
+``` txt
 œuf də pɑk
 ```
