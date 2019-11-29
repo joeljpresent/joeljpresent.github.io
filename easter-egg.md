@@ -10,7 +10,7 @@ Bienvenue dans mon jardin !
 
 ![œufs de pâques](https://babylas25.mondoblog.org/files/2013/03/oeufs_ukrainiens.jpg)
 
-```txt
+```
 pourquoi
 ```
 
@@ -18,7 +18,7 @@ pourquoi
 œf də pɑk
 ```
 
-``` txt
+``` yaml
 œf də pɑk bis
 ```
 
@@ -26,7 +26,7 @@ pourquoi
 euf de pak
 ```
 
-```txt
+```yaml
 Des œufs de pâques
 Mangeant du chocolat
 De poule
