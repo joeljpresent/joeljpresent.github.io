@@ -1,4 +1,5 @@
 ---
+layout: aucun_layout
 title: "Œuf de pâques"
 permalink: "/easter/egg/"
 ---
