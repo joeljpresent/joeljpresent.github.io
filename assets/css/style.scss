@@ -6,6 +6,10 @@
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fira+Mono&display=swap');
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
 body, h1, h2, h3, h4, h5, h6, strong, th, dt {
   font-family: 'IBM Plex Sans', 'Ubuntu', Tahoma, Verdana, sans-serif !important;
 }
