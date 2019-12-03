@@ -7,3 +7,6 @@ markdown: "GFM"
 github_username: "JoelJPresent"
 linkedin_username: "joeljpresent"
 twitter_username: "JoelJPresent"
+
+sass:
+    sass_dir: _sass
