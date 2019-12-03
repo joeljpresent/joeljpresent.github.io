@@ -9,4 +9,4 @@ linkedin_username: "joeljpresent"
 twitter_username: "JoelJPresent"
 
 sass:
-    sass_dir: _sass
+    sass_dir: "assets/css"
