@@ -1,0 +1,20 @@
+@counter-style jojo-random-counter {
+    system: numeric;
+    symbols: "ÿ" "ä" "ë" "ï" "ö" "ü";
+    suffix: ". ";
+    negative: "(" ")";
+}
+
+@counter-style e-trema-counter {
+    system: cyclic;
+    symbols: "(ë)";
+    suffix: " ";
+}
+
+span.oeuf_jojo ol {
+  list-style: jojo-random-counter;
+}
+
+span.oeuf_jojo ul {
+  list-style: e-trema-counter;
+}
