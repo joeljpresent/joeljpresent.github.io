@@ -5,6 +5,13 @@
     negative: "(" ")";
 }
 
+@counter-style shadok-counter {
+    system: numeric;
+    symbols: "ga" "bu" "zo" "meu";
+    suffix: ". ";
+    negative: "-";
+}
+
 @counter-style e-trema-counter {
     system: cyclic;
     symbols: "(ë)";
@@ -12,7 +19,7 @@
 }
 
 span.oeuf_jojo ol {
-  list-style: jojo-random-counter;
+  list-style: shadok-counter;
 }
 
 span.oeuf_jojo ul {
