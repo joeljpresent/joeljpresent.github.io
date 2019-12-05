@@ -33,25 +33,27 @@ C'est là que ça devient intéressant.
 - 卵 (*tamago*)
 - Uovo
 
-Essayons de ~~jouer~~ faire des trucs sérieux.
+Jetons un œil à des proverbes shadoks !
 
-0. Zéro.
-1. Joël
-2. J.
-3. Présent
-4. Oui
-5. C'est
-6. Moi
-7. Oui,
-8. c'est
-9. bien
-10. le
-11. système
-12. de
-13. numérotation
-14. des
-15. Shadoks
-16. (saison
-17. 2).
+0. Pourquoi faire simple quand on peut faire compliquer ?
+1. Les ordinateurs, plus on s'en sert moins, moins ça a de chance de mal marcher.
+2. Tout avantage a ses inconvénients et réciproquement.
+3. S'il n'y a pas de solution, c'est qu'il n'y a pas de problème.
+4. La vérité, c'est qu'il n'y a pas de vérité (y compris celle-ci).
+5. Il vaut mieux pomper même s'il ne se passe rien que de risquer qu'il se passe quelque chose de pire en ne pompant pas.
+6. En essayant continuellement, on finit par réussir. Donc : plus ça rate, plus on a de chance que ça marche.
+7. Avec un escalier prévu pour la montée on réussit souvent à monter plus bas qu'on ne serait descendu avec un escalier prévu pour la descente.
+8. Si ça fait mal, c'est que ça fait du bien.
+9. C'est en forgeant que l'on devient musicien.
+10. Je pompe donc je suis.
+11. S'il n'y a pas de solution, il n'y a pas de problème.
+12. Pour qu'il y ait le moins de mécontents possible, il faut toujours taper sur les mêmes.
+13. Quand on ne sait pas où on va, il faut y aller… et le plus vite possible.
+14. C'est encore dans la marine qu'il y a le plus de marins.
+15. Ce n'est qu'en pompant que vous arriverez à quelque chose et même si vous n'y arrivez pas… eh bien, ça vous aura pas fait de mal.
+16. Il faut pomper pour vivre et donc vivre pour pomper.
+17. Il vaut mieux mobiliser son intelligence sur des conneries que mobiliser sa connerie sur des choses intelligentes.
+18. Je dis des choses tellement intelligentes que, le plus souvent, je comprends pas ce que je dis.
+19. MEU ZO BU GA, GA BU ZO MEU.
 
 </span>
