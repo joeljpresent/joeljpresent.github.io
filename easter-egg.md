@@ -35,11 +35,23 @@ C'est là que ça devient intéressant.
 
 Essayons de ~~jouer~~ faire des trucs sérieux.
 
+0. Zéro.
 1. Joël
 2. J.
 3. Présent
 4. Oui
 5. C'est
 6. Moi
+7. Oui,
+8. c'est
+9. bien
+10. le
+11. système
+12. de
+13. numérotation
+14. des
+15. Shadoks
+16. (saison
+17. 2).
 
 </span>
