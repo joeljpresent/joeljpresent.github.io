@@ -35,7 +35,7 @@ C'est là que ça devient intéressant.
 
 Jetons un œil à des proverbes shadoks !
 
-0. Pourquoi faire simple quand on peut faire compliquer ?
+0. Pourquoi faire simple quand on peut faire compliqué ?
 1. Les ordinateurs, plus on s'en sert moins, moins ça a de chance de mal marcher.
 2. Tout avantage a ses inconvénients et réciproquement.
 3. S'il n'y a pas de solution, c'est qu'il n'y a pas de problème.
@@ -55,5 +55,10 @@ Jetons un œil à des proverbes shadoks !
 17. Il vaut mieux mobiliser son intelligence sur des conneries que mobiliser sa connerie sur des choses intelligentes.
 18. Je dis des choses tellement intelligentes que, le plus souvent, je comprends pas ce que je dis.
 19. MEU ZO BU GA, GA BU ZO MEU.
+20. La notion de passoire est indépendante de la notion de trou et réciproquement.
+21. La ligne droite est le plus long chemin d'un point à un autre.
+22. Le point est la plus courte distance possible entre deux lignes.
+23. Deux lignes qui se rencontrent se rencontrent toujours au même endroit.
+24. La condition suffisante pour qu'un point reste bien parallèle à deux autres points, est qu'il reste là où il est et qu'il ne bouge pas.
 
 </span>
