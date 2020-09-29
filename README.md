@@ -24,7 +24,7 @@ Each line can be divided into fields (every other field is placed between curly 
 
 ``` text
 ありがとう {arigatou} thank you
-馬鹿 {baka} idiot | stupid
+狸 {tanuki} raccoon dog | tanooki
 洗い熊 | アライグマ {araiguma} raccoon {animal}
 サントノーレ {santonôre} Saint-Honoré {pastry | cake} French
 ```
